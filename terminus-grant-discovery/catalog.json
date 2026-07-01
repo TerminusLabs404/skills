@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "terminus-grant-discovery",
+  "provider": "TerminusLabs404",
+  "providerUrl": "https://github.com/TerminusLabs404",
+  "logo": null,
+  "demo": null,
+  "setup": [],
+  "install": {
+    "type": "bankr",
+    "repoPath": "terminus-grant-discovery",
+    "command": "install the terminus-grant-discovery skill from https://github.com/BankrBot/skills/tree/main/terminus-grant-discovery"
+  }
+}
