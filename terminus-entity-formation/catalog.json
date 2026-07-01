@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "terminus-entity-formation",
+  "provider": "TerminusLabs404",
+  "providerUrl": "https://github.com/TerminusLabs404",
+  "logo": null,
+  "demo": null,
+  "setup": [],
+  "install": {
+    "type": "bankr",
+    "repoPath": "terminus-entity-formation",
+    "command": "install the terminus-entity-formation skill from https://github.com/BankrBot/skills/tree/main/terminus-entity-formation"
+  }
+}
